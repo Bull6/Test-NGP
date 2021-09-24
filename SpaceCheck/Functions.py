@@ -12,7 +12,7 @@ class BasePage:
 
     def __init__(self, driver):
         self.driver = driver
-        self.base_url = "https://spacecheck.ru/test?token=Sr-sCWV6i-fV6f5dQb31xDPfo3socVj-"
+        self.base_url = "https://spacecheck.ru/test?token=X1JBmO70CvzLKPrR_ZXzYiVz5gM2PdqU"
 
     def find_element(self, locator, timeout):
         return WebDriverWait(self.driver, timeout).until(EC.presence_of_element_located(locator),
