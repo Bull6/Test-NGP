@@ -1,0 +1,321 @@
+Start testing: 2021-09-09 22:56:14.412250
+
+ID testing: 287   |   ID Question: 151   |   
+Мировой: 0:00:00.216874
+
+ID testing: 287   |   ID Question: 151   |   
+Мировой: 0:00:00.123927
+
+ID testing: 287   |   ID Question: 147   |   
+Мировой: 0:00:00.124929
+
+ID testing: 287   |   ID Question: 388   |   
+Один из списка: 0:00:00.134928
+
+ID testing: 287   |   ID Question: 157   |   
+Мировой: 0:00:00.123922
+
+ID testing: 287   |   ID Question: 153   |   
+Мировой: 0:00:00.130926
+
+ID testing: 287   |   ID Question: 400   |   
+Один из списка: 0:00:00.123928
+
+ID testing: 287   |   ID Question: 375   |   
+Шкала: 0:00:00.175901
+
+ID testing: 287   |   ID Question: 375   |   
+Шкала: 0:00:00.170901
+
+ID testing: 287   |   ID Question: 381   |   
+Несколько из списка: 0:00:00.167903
+
+ID testing: 287   |   ID Question: 116   |   
+Мировой: 0:00:00.161907
+
+ID testing: 287   |   ID Question: 397   |   
+Один из списка: 0:00:00.163905
+
+ID testing: 287   |   ID Question: 128   |   
+Мировой: 0:00:00.173903
+
+ID testing: 287   |   ID Question: 114   |   
+Мировой: 0:00:00.218874
+
+ID testing: 287   |   ID Question: 148   |   
+Мировой: 0:00:00.169902
+
+ID testing: 287   |   ID Question: 376   |   
+Один из списка: 0:00:00.185894
+
+ID testing: 287   |   ID Question: 152   |   
+Мировой: 0:00:00.227869
+
+ID testing: 287   |   ID Question: 142   |   
+Мировой: 0:00:00.243859
+
+ID testing: 287   |   ID Question: 167   |   
+Мировой: 0:00:00.368788
+
+ID testing: 287   |   ID Question: 374   |   
+Один из списка: 0:00:00.199886
+
+ID testing: 287   |   ID Question: 374   |   
+Один из списка: 0:00:00.179899
+
+ID testing: 287   |   ID Question: 168   |   
+Мировой: 0:00:00.138922
+
+ID testing: 287   |   ID Question: 401   |   
+Один из списка: 0:00:00.177898
+
+ID testing: 287   |   ID Question: 127   |   
+Мировой: 0:00:00.156910
+
+ID testing: 287   |   ID Question: 145   |   
+Мировой: 0:00:00.156910
+
+ID testing: 287   |   ID Question: 145   |   
+Мировой: 0:00:00.121932
+
+ID testing: 287   |   ID Question: 130   |   
+Мировой: 0:00:00.158908
+
+ID testing: 287   |   ID Question: 134   |   
+Мировой: 0:00:00.150914
+
+ID testing: 287   |   ID Question: 136   |   
+Мировой: 0:00:00.146916
+
+ID testing: 287   |   ID Question: 390   |   
+Один из списка: 0:00:00.166903
+
+ID testing: 287   |   ID Question: 380   |   
+Один из списка: 0:00:00.174900
+
+ID testing: 287   |   ID Question: 115   |   
+Мировой: 0:00:00.155911
+
+ID testing: 287   |   ID Question: 159   |   
+Мировой: 0:00:00.144916
+
+ID testing: 287   |   ID Question: 139   |   
+Мировой: 0:00:00.147915
+
+ID testing: 287   |   ID Question: 378   |   
+Несколько из списка: 0:00:00.167904
+
+ID testing: 287   |   ID Question: 383   |   
+Один из списка: 0:00:00.182892
+
+ID testing: 287   |   ID Question: 393   |   
+Один из списка: 0:00:00.169902
+
+ID testing: 287   |   ID Question: 398   |   
+Один из списка: 0:00:00.230868
+
+ID testing: 287   |   ID Question: 122   |   
+Мировой: 0:00:00.153911
+
+ID testing: 287   |   ID Question: 164   |   
+Мировой: 0:00:00.206883
+
+ID testing: 287   |   ID Question: 384   |   
+Один из списка: 0:00:00.270850
+
+ID testing: 287   |   ID Question: 391   |   
+Один из списка: 0:00:00.181893
+
+ID testing: 287   |   ID Question: 120   |   
+Мировой: 0:00:00.195887
+
+ID testing: 287   |   ID Question: 143   |   
+Мировой: 0:00:00.141918
+
+ID testing: 287   |   ID Question: 143   |   
+Мировой: 0:00:00.122929
+
+ID testing: 287   |   ID Question: 118   |   
+Мировой: 0:00:00.187890
+
+ID testing: 287   |   ID Question: 162   |   
+Мировой: 0:00:00.128927
+
+ID testing: 287   |   ID Question: 155   |   
+Мировой: 0:00:00.122930
+
+ID testing: 287   |   ID Question: 161   |   
+Мировой: 0:00:00.125928
+
+ID testing: 287   |   ID Question: 137   |   
+Мировой: 0:00:00.137922
+
+ID testing: 287   |   ID Question: 169   |   
+Мировой: 0:00:00.140918
+
+ID testing: 287   |   ID Question: 382   |   
+Один из списка: 0:00:00.134925
+
+ID testing: 287   |   ID Question: 150   |   
+Мировой: 0:00:00.125928
+
+ID testing: 287   |   ID Question: 144   |   
+Мировой: 0:00:00.137919
+
+ID testing: 287   |   ID Question: 144   |   
+Мировой: 0:00:00.115936
+
+ID testing: 287   |   ID Question: 135   |   
+Мировой: 0:00:00.123931
+
+ID testing: 287   |   ID Question: 141   |   
+Мировой: 0:00:00.135922
+
+ID testing: 287   |   ID Question: 399   |   
+Несколько из списка: 0:00:00.222870
+
+ID testing: 287   |   ID Question: 396   |   
+Один из списка: 0:00:00.132922
+
+ID testing: 287   |   ID Question: 125   |   
+Мировой: 0:00:00.122930
+
+ID testing: 287   |   ID Question: 133   |   
+Мировой: 0:00:00.128925
+
+ID testing: 287   |   ID Question: 138   |   
+Мировой: 0:00:00.150916
+
+ID testing: 287   |   ID Question: 156   |   
+Мировой: 0:00:00.122140
+
+ID testing: 287   |   ID Question: 379   |   
+Шкала: 0:00:00.168112
+
+ID testing: 287   |   ID Question: 165   |   
+Мировой: 0:00:00.158909
+
+ID testing: 287   |   ID Question: 119   |   
+Мировой: 0:00:00.163906
+
+ID testing: 287   |   ID Question: 395   |   
+Один из списка: 0:00:00.146917
+
+ID testing: 287   |   ID Question: 395   |   
+Один из списка: 0:00:00.125926
+
+ID testing: 287   |   ID Question: 389   |   
+Один из списка: 0:00:00.180895
+
+ID testing: 287   |   ID Question: 377   |   
+Один из списка: 0:00:00.136925
+
+ID testing: 287   |   ID Question: 126   |   
+Мировой: 0:00:00.135146
+
+ID testing: 287   |   ID Question: 163   |   
+Мировой: 0:00:00.123928
+
+ID testing: 287   |   ID Question: 394   |   
+Один из списка: 0:00:00.134946
+
+ID testing: 287   |   ID Question: 386   |   
+Один из списка: 0:00:00.128926
+
+ID testing: 287   |   ID Question: 117   |   
+Мировой: 0:00:00.124929
+
+ID testing: 287   |   ID Question: 132   |   
+Мировой: 0:00:00.126928
+
+ID testing: 287   |   ID Question: 154   |   
+Мировой: 0:00:00.134923
+
+ID testing: 287   |   ID Question: 146   |   
+Мировой: 0:00:00.142918
+
+ID testing: 287   |   ID Question: 158   |   
+Мировой: 0:00:00.122930
+
+ID testing: 287   |   ID Question: 140   |   
+Мировой: 0:00:00.120930
+
+ID testing: 287   |   ID Question: 387   |   
+Один из списка: 0:00:00.154911
+
+ID testing: 287   |   ID Question: 149   |   
+Мировой: 0:00:00.123929
+
+ID testing: 287   |   ID Question: 123   |   
+Мировой: 0:00:00.130924
+
+ID testing: 287   |   ID Question: 385   |   
+Один из списка: 0:00:00.145917
+
+ID testing: 287   |   ID Question: 170   |   
+Мировой: 0:00:00.120667
+
+ID testing: 287   |   ID Question: 129   |   
+Мировой: 0:00:00.156909
+
+ID testing: 287   |   ID Question: 124   |   
+Мировой: 0:00:00.133410
+
+ID testing: 287   |   ID Question: 131   |   
+Мировой: 0:00:00.120931
+
+ID testing: 287   |   ID Question: 392   |   
+Один из списка: 0:00:00.137918
+
+ID testing: 287   |   ID Question: 121   |   
+Мировой: 0:00:00.126926
+
+ID testing: 287   |   ID Question: 160   |   
+Мировой: 0:00:00.126812
+
+ID testing: 287   |   ID Question: 166   |   
+Мировой: 0:00:00.122927
+
+ID testing: 287   |   ID Question: 411   |   
+Один из списка: 0:00:00.127927
+
+ID testing: 287   |   ID Question: 412   |   
+Несколько из списка: 0:00:00.234864
+
+ID testing: 287   |   ID Question: 414   |   
+Шкала: 0:00:00.150914
+
+ID testing: 287   |   ID Question: 413   |   
+Загрузка файлов: 0:00:00.172900
+
+ID testing: 287   |   ID Question: 402   |   
+Один из списка: 0:00:00.144917
+
+ID testing: 287   |   ID Question: 402   |   
+Один из списка: 0:00:00.143920
+
+ID testing: 287   |   ID Question: 403   |   
+Несколько из списка: 0:00:00.177897
+
+ID testing: 287   |   ID Question: 404   |   
+Один из списка: 0:00:00.129927
+
+ID testing: 287   |   ID Question: 405   |   
+Один из списка: 0:00:00.128226
+
+ID testing: 287   |   ID Question: 406   |   
+Один из списка: 0:00:00.135922
+
+ID testing: 287   |   ID Question: 407   |   
+Один из списка: 0:00:00.258088
+
+ID testing: 287   |   ID Question: 408   |   
+Один из списка: 0:00:00.130924
+
+ID testing: 287   |   ID Question: 409   |   
+Один из списка: 0:00:00.124928
+
+ID testing: 287   |   ID Question: 410   |   
+Открытый вопрос: 0:00:00.096945
+
+End testing: 2021-09-09 22:58:58.691933

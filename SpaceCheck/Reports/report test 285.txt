@@ -1,0 +1,317 @@
+Start testing: 2021-09-09 22:48:55.551791
+
+ID testing: 285   |   ID Question: 130   |   
+Мировой: 0:00:00.183981
+
+ID testing: 285   |   ID Question: 153   |   
+Мировой: 0:00:00.128005
+
+ID testing: 285   |   ID Question: 131   |   
+Мировой: 0:00:00.111994
+
+ID testing: 285   |   ID Question: 393   |   
+Один из списка: 0:00:00.175983
+
+ID testing: 285   |   ID Question: 160   |   
+Мировой: 0:00:00.127988
+
+ID testing: 285   |   ID Question: 169   |   
+Мировой: 0:00:00.175983
+
+ID testing: 285   |   ID Question: 122   |   
+Мировой: 0:00:00.191983
+
+ID testing: 285   |   ID Question: 116   |   
+Мировой: 0:00:00.183984
+
+ID testing: 285   |   ID Question: 163   |   
+Мировой: 0:00:00.135985
+
+ID testing: 285   |   ID Question: 161   |   
+Мировой: 0:00:00.103993
+
+ID testing: 285   |   ID Question: 380   |   
+Один из списка: 0:00:00.111989
+
+ID testing: 285   |   ID Question: 159   |   
+Мировой: 0:00:00.231991
+
+ID testing: 285   |   ID Question: 155   |   
+Мировой: 0:00:00.167989
+
+ID testing: 285   |   ID Question: 143   |   
+Мировой: 0:00:00.119999
+
+ID testing: 285   |   ID Question: 376   |   
+Один из списка: 0:00:00.111969
+
+ID testing: 285   |   ID Question: 123   |   
+Мировой: 0:00:00.111995
+
+ID testing: 285   |   ID Question: 170   |   
+Мировой: 0:00:00.111972
+
+ID testing: 285   |   ID Question: 387   |   
+Один из списка: 0:00:00.132467
+
+ID testing: 285   |   ID Question: 145   |   
+Мировой: 0:00:00.279972
+
+ID testing: 285   |   ID Question: 126   |   
+Мировой: 0:00:00.159993
+
+ID testing: 285   |   ID Question: 375   |   
+Шкала: 0:00:00.135989
+
+ID testing: 285   |   ID Question: 375   |   
+Шкала: 0:00:00.183369
+
+ID testing: 285   |   ID Question: 375   |   
+Шкала: 0:00:00.111986
+
+ID testing: 285   |   ID Question: 400   |   
+Один из списка: 0:00:00.103990
+
+ID testing: 285   |   ID Question: 157   |   
+Мировой: 0:00:00.151985
+
+ID testing: 285   |   ID Question: 154   |   
+Мировой: 0:00:00.143985
+
+ID testing: 285   |   ID Question: 132   |   
+Мировой: 0:00:00.111987
+
+ID testing: 285   |   ID Question: 137   |   
+Мировой: 0:00:00.119989
+
+ID testing: 285   |   ID Question: 117   |   
+Мировой: 0:00:00.103992
+
+ID testing: 285   |   ID Question: 401   |   
+Один из списка: 0:00:00.151990
+
+ID testing: 285   |   ID Question: 395   |   
+Один из списка: 0:00:00.143965
+
+ID testing: 285   |   ID Question: 144   |   
+Мировой: 0:00:00.135988
+
+ID testing: 285   |   ID Question: 120   |   
+Мировой: 0:00:00.159982
+
+ID testing: 285   |   ID Question: 388   |   
+Один из списка: 0:00:00.096011
+
+ID testing: 285   |   ID Question: 398   |   
+Один из списка: 0:00:00.127988
+
+ID testing: 285   |   ID Question: 378   |   
+Несколько из списка: 0:00:00.199979
+
+ID testing: 285   |   ID Question: 384   |   
+Один из списка: 0:00:00.119988
+
+ID testing: 285   |   ID Question: 135   |   
+Мировой: 0:00:00.087991
+
+ID testing: 285   |   ID Question: 392   |   
+Один из списка: 0:00:00.135986
+
+ID testing: 285   |   ID Question: 399   |   
+Несколько из списка: 0:00:00.135967
+
+ID testing: 285   |   ID Question: 399   |   
+Несколько из списка: 0:00:00.159989
+
+ID testing: 285   |   ID Question: 115   |   
+Мировой: 0:00:00.135987
+
+ID testing: 285   |   ID Question: 125   |   
+Мировой: 0:00:00.119985
+
+ID testing: 285   |   ID Question: 138   |   
+Мировой: 0:00:00.135969
+
+ID testing: 285   |   ID Question: 128   |   
+Мировой: 0:00:00.135961
+
+ID testing: 285   |   ID Question: 127   |   
+Мировой: 0:00:00.103990
+
+ID testing: 285   |   ID Question: 383   |   
+Один из списка: 0:00:00.159991
+
+ID testing: 285   |   ID Question: 166   |   
+Мировой: 0:00:00.311972
+
+ID testing: 285   |   ID Question: 389   |   
+Один из списка: 0:00:00.095986
+
+ID testing: 285   |   ID Question: 377   |   
+Один из списка: 0:00:00.167981
+
+ID testing: 285   |   ID Question: 379   |   
+Шкала: 0:00:00.167985
+
+ID testing: 285   |   ID Question: 147   |   
+Мировой: 0:00:00.143983
+
+ID testing: 285   |   ID Question: 164   |   
+Мировой: 0:00:00.119989
+
+ID testing: 285   |   ID Question: 167   |   
+Мировой: 0:00:00.145864
+
+ID testing: 285   |   ID Question: 394   |   
+Один из списка: 0:00:00.095993
+
+ID testing: 285   |   ID Question: 152   |   
+Мировой: 0:00:00.111993
+
+ID testing: 285   |   ID Question: 374   |   
+Один из списка: 0:00:00.120005
+
+ID testing: 285   |   ID Question: 165   |   
+Мировой: 0:00:00.119986
+
+ID testing: 285   |   ID Question: 114   |   
+Мировой: 0:00:00.191983
+
+ID testing: 285   |   ID Question: 149   |   
+Мировой: 0:00:00.088013
+
+ID testing: 285   |   ID Question: 168   |   
+Мировой: 0:00:00.319971
+
+ID testing: 285   |   ID Question: 397   |   
+Один из списка: 0:00:00.895919
+
+ID testing: 285   |   ID Question: 121   |   
+Мировой: 0:00:00.279974
+
+ID testing: 285   |   ID Question: 385   |   
+Один из списка: 0:00:00.167984
+
+ID testing: 285   |   ID Question: 150   |   
+Мировой: 0:00:00.143986
+
+ID testing: 285   |   ID Question: 386   |   
+Один из списка: 0:00:00.159988
+
+ID testing: 285   |   ID Question: 391   |   
+Один из списка: 0:00:00.191982
+
+ID testing: 285   |   ID Question: 146   |   
+Мировой: 0:00:00.167986
+
+ID testing: 285   |   ID Question: 140   |   
+Мировой: 0:00:00.143986
+
+ID testing: 285   |   ID Question: 382   |   
+Один из списка: 0:00:00.231979
+
+ID testing: 285   |   ID Question: 119   |   
+Мировой: 0:00:00.119990
+
+ID testing: 285   |   ID Question: 396   |   
+Один из списка: 0:00:00.255976
+
+ID testing: 285   |   ID Question: 118   |   
+Мировой: 0:00:00.223978
+
+ID testing: 285   |   ID Question: 139   |   
+Мировой: 0:00:00.215979
+
+ID testing: 285   |   ID Question: 390   |   
+Один из списка: 0:00:00.239977
+
+ID testing: 285   |   ID Question: 142   |   
+Мировой: 0:00:00.151986
+
+ID testing: 285   |   ID Question: 156   |   
+Мировой: 0:00:00.335968
+
+ID testing: 285   |   ID Question: 148   |   
+Мировой: 0:00:00.151986
+
+ID testing: 285   |   ID Question: 124   |   
+Мировой: 0:00:00.159985
+
+ID testing: 285   |   ID Question: 136   |   
+Мировой: 0:00:00.151984
+
+ID testing: 285   |   ID Question: 129   |   
+Мировой: 0:00:00.183984
+
+ID testing: 285   |   ID Question: 141   |   
+Мировой: 0:00:00.239978
+
+ID testing: 285   |   ID Question: 141   |   
+Мировой: 0:00:00.143986
+
+ID testing: 285   |   ID Question: 134   |   
+Мировой: 0:00:00.151991
+
+ID testing: 285   |   ID Question: 151   |   
+Мировой: 0:00:00.167985
+
+ID testing: 285   |   ID Question: 133   |   
+Мировой: 0:00:00.183983
+
+ID testing: 285   |   ID Question: 162   |   
+Мировой: 0:00:00.199981
+
+ID testing: 285   |   ID Question: 381   |   
+Несколько из списка: 0:00:00.431961
+
+ID testing: 285   |   ID Question: 158   |   
+Мировой: 0:00:00.183984
+
+ID testing: 285   |   ID Question: 158   |   
+Мировой: 0:00:00.151988
+
+ID testing: 285   |   ID Question: 411   |   
+Один из списка: 0:00:00.135990
+
+ID testing: 285   |   ID Question: 411   |   
+Один из списка: 0:00:00.183984
+
+ID testing: 285   |   ID Question: 412   |   
+Несколько из списка: 0:00:00.247985
+
+ID testing: 285   |   ID Question: 414   |   
+Шкала: 0:00:00.279972
+
+ID testing: 285   |   ID Question: 413   |   
+Загрузка файлов: 0:00:00.175982
+
+ID testing: 285   |   ID Question: 402   |   
+Один из списка: 0:00:00.135988
+
+ID testing: 285   |   ID Question: 403   |   
+Несколько из списка: 0:00:00.143985
+
+ID testing: 285   |   ID Question: 403   |   
+Несколько из списка: 0:00:00.239978
+
+ID testing: 285   |   ID Question: 404   |   
+Один из списка: 0:00:00.135987
+
+ID testing: 285   |   ID Question: 405   |   
+Один из списка: 0:00:00.135994
+
+ID testing: 285   |   ID Question: 406   |   
+Один из списка: 0:00:00.111993
+
+ID testing: 285   |   ID Question: 407   |   
+Один из списка: 0:00:00.119989
+
+ID testing: 285   |   ID Question: 408   |   
+Один из списка: 0:00:00.111990
+
+ID testing: 285   |   ID Question: 409   |   
+Один из списка: 0:00:00.127987
+
+ID testing: 285   |   ID Question: 410   |   
+Открытый вопрос: 0:00:00.095984
+End testing: 2021-09-09 22:51:17.439581

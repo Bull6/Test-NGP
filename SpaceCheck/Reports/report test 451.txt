@@ -1,0 +1,120 @@
+Start testing: 2021-09-23 14:34:02.827824
+
+ID testing: 451   |   ID Question: 438   |   
+Один из списка: 0:00:00.345464
+
+ID testing: 451   |   ID Question: 376   |   
+Один из списка: 0:00:00.305571
+
+ID testing: 451   |   ID Question: 448   |   
+Один из списка: 0:00:00.306981
+
+ID testing: 451   |   ID Question: 435   |   
+Один из списка: 0:00:00.304501
+
+ID testing: 451   |   ID Question: 450   |   
+Один из списка: 0:00:00.256010
+
+ID testing: 451   |   ID Question: 441   |   
+Один из списка: 0:00:00.324885
+
+ID testing: 451   |   ID Question: 445   |   
+Один из списка: 0:00:00.340479
+
+ID testing: 451   |   ID Question: 444   |   
+Один из списка: 0:00:00.268312
+
+ID testing: 451   |   ID Question: 381   |   
+Несколько из списка: 0:00:00.289093
+
+ID testing: 451   |   ID Question: 375   |   
+Шкала: 0:00:00.277572
+
+ID testing: 451   |   ID Question: 375   |   
+Шкала: 0:00:00.262010
+
+ID testing: 451   |   ID Question: 440   |   
+Один из списка: 0:00:00.303779
+
+ID testing: 451   |   ID Question: 439   |   
+Один из списка: 0:00:00.262987
+
+ID testing: 451   |   ID Question: 443   |   
+Один из списка: 0:00:00.274561
+
+ID testing: 451   |   ID Question: 446   |   
+Один из списка: 0:00:00.283690
+
+ID testing: 451   |   ID Question: 447   |   
+Один из списка: 0:00:00.311623
+
+ID testing: 451   |   ID Question: 451   |   
+Один из списка: 0:00:00.263961
+
+ID testing: 451   |   ID Question: 377   |   
+Один из списка: 0:00:00.334307
+
+ID testing: 451   |   ID Question: 378   |   
+Несколько из списка: 0:00:00.303897
+
+ID testing: 451   |   ID Question: 379   |   
+Шкала: 0:00:00.306930
+
+ID testing: 451   |   ID Question: 379   |   
+Шкала: 0:00:00.255138
+
+ID testing: 451   |   ID Question: 379   |   
+Шкала: 0:00:00.272054
+
+ID testing: 451   |   ID Question: 436   |   
+Один из списка: 0:00:00.303144
+
+ID testing: 451   |   ID Question: 380   |   
+Один из списка: 0:00:00.248842
+
+ID testing: 451   |   ID Question: 437   |   
+Один из списка: 0:00:00.268940
+
+ID testing: 451   |   ID Question: 454   |   
+Один из списка: 0:00:00.316283
+
+ID testing: 451   |   ID Question: 453   |   
+Один из списка: 0:00:00.261638
+
+ID testing: 451   |   ID Question: 442   |   
+Один из списка: 0:00:00.287502
+
+ID testing: 451   |   ID Question: 374   |   
+Один из списка: 0:00:00.290423
+
+ID testing: 451   |   ID Question: 449   |   
+Один из списка: 0:00:00.336651
+
+ID testing: 451   |   ID Question: 452   |   
+Несколько из списка: 0:00:00.402300
+
+ID testing: 451   |   ID Question: 402   |   
+Один из списка: 0:00:00.308068
+
+ID testing: 451   |   ID Question: 403   |   
+Несколько из списка: 0:00:00.240522
+
+ID testing: 451   |   ID Question: 404   |   
+Один из списка: 0:00:00.309072
+
+ID testing: 451   |   ID Question: 405   |   
+Один из списка: 0:00:00.321440
+
+ID testing: 451   |   ID Question: 406   |   
+Один из списка: 0:00:00.241049
+
+ID testing: 451   |   ID Question: 407   |   
+Один из списка: 0:00:00.246065
+
+ID testing: 451   |   ID Question: 408   |   
+Один из списка: 0:00:00.228502
+
+ID testing: 451   |   ID Question: 409   |   
+Один из списка: 0:00:00.282988
+
+End testing: 2021-09-23 14:35:01.504334
